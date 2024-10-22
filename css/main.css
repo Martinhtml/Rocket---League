@@ -2,6 +2,9 @@
     padding: 0;
     margin: 0;
 }
+#body{
+    background-color: #303736;
+}
 #header{
     height: 140px;
     display: flex;
@@ -89,7 +92,7 @@
 }
 #imgimg2 img{
     width: 100%;
-    height: 500px;
+    height: 100%;
 }
 #p {
     display: flex;
@@ -102,3 +105,49 @@
     font-family: 'Playpen Sans';
     background-color: #0c88FC;
 }
+footer img{
+    height: 70px;
+}
+#footer{
+    color: white !important;
+}
+
+#parte1{
+    color: white !important;
+}
+#parte2{
+    color: white !important;
+}
+#texto{
+    padding-left: 2%;
+    color: white !important;
+}
+#ul{
+    padding-right: 2%;
+}
+.registros{
+    background-image: url(../assets/img/descarga.gif);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
