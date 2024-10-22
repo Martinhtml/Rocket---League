@@ -33,3 +33,36 @@
     color: white;
     background-color: #FC7C0c;
 }
+#gif{
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+#gif img{ 
+    padding-right: 0px;
+    padding-left: 0px;
+    height: 730px;
+}
+#img1{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+#img1 img{
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    height: 400px;
+    width: 100%;
+}
+#text{
+    display: flex;
+    justify-content: center;
+}
