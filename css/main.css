@@ -172,7 +172,13 @@ footer img{
     background-color: #FC7C0c !important;
     height: 95px;
 }
-
+#letra{
+    background-color: white;
+    margin-right: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-left: 0px;
+}
 
 
 
