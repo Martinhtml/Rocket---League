@@ -132,11 +132,25 @@ footer img{
     background-size: cover;
     color: white;
 }
-
-
-
-
-
+#ul2{
+    padding-right: 2%;
+}
+#texto2{
+    padding-left: 2%;
+    color: white !important;
+}
+#footer2{
+    color: white !important;
+}
+#parte3{
+    color: white !important;
+}
+#parte4{
+    color: white !important;
+}
+#body2{
+    background-color: #303736;
+}
 
 
 
